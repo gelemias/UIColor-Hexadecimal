@@ -1,4 +1,4 @@
-# UIColor-Hexadecimal-Swift
+# UIColor Hexadecimal in Swift
 Extension for UIColor to initialize with an hexadecimal string written in Swift
 
 usage:
